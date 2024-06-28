@@ -1,6 +1,6 @@
 <h3>Hi  👋 I'm Tim Li</h3> 
 
-- 🔭 I’m currently working on applying programming to financial studies
+- 🔭 I’m currently working on applying programming to financial engineering studies
   
 - 🌱 I’m learning Python and C++ Programming for financial applications
   
